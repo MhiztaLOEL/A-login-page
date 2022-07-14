@@ -1,0 +1,54 @@
+body {
+    background-color: purple;
+}
+
+#page {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(235, 235, 241);
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+img {
+    width: 100px;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 70px;
+    font-family: arial;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    width: 250px;
+    height: 20px;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 100px;
+    color: aliceblue;
+    background-color: black;
+    border: 0px;
+    width: 70px;
+    height: 20px;
+}
+
+footer {
+    margin-top: 35px;
+    margin-left: 30px;
+    color: black;
+    font-size: 15px;
+}
+
+span {
+    color: red;
+}
